@@ -29,5 +29,5 @@ $$Day-1 (24 Problem Solved)
 ---Perfect Square  
 ---Automorphic number  
 ---Harshad number  
-Abundant number 
-Friendly pair  
+---Abundant number 
+---Friendly pair  
