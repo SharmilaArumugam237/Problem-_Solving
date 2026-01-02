@@ -1,8 +1,8 @@
 # Problem-_Solving
 problems in java #leetcode
-Problem_100.java (Target to solve 100 problems)
+Problem_100.java (Target to solve problems)
 ______________________________________________________________________
-$$Day-1 (24 Problem Solved)
+$$(24 Problem Solved)
 ---Positive or Negative number
 ---Even or Odd number 
 ---Sum of First N Natural numbers  
